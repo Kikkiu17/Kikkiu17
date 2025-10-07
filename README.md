@@ -1,1 +1,1 @@
-I'm Kikkiu, I create projects in C/C++ and C#.
+I'm Emanuele, Electronics Engineering student at Politecnico di Milano, interesting in embedded systems
