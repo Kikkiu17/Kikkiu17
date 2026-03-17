@@ -1,1 +1,1 @@
-I'm Emanuele, Electronics Engineering student at Politecnico di Milano, interesting in embedded systems
+I'm Emanuele, Electronics Engineering student at Politecnico di Milano, interested in embedded systems
